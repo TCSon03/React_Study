@@ -1,10 +1,9 @@
-import React from 'react'
 import './App.css'
 
 function App() {
   return (
     <div className='container'>
-      <h1>Chào Mừng Bạn Đến Với Lớp Học Của Sơn</h1>
+      <h1>Nhìn cái chó j</h1>
     </div>
   )
 }

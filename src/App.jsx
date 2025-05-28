@@ -1,11 +1,12 @@
-import './App.css'
+import "./App.css";
+import Router from "./router";
 
 function App() {
   return (
-    <div className='container'>
-      <h1>Nhìn cái chó j</h1>
-    </div>
-  )
+    <>
+      <Router />
+    </>
+  );
 }
 
-export default App
+export default App;

@@ -1,11 +1,13 @@
-import './App.css'
+// import Blog from "./components/useEffect/Blog";
+// import Popup from "./components/useEffect/Popup";
+import State from "./components/useState/State";
 
-function App() {
+const App = () => {
   return (
-    <div className='container'>
-      <h1>Nhìn cái chó j</h1>
+    <div>
+      <State />
     </div>
-  )
-}
+  );
+};
 
-export default App
+export default App;
